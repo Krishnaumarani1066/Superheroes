@@ -1,7 +1,4 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&weight=900&size=50&pause=1000&color=E31B23&center=true&vCenter=true&width=800&height=100&lines=%F0%9F%A6%B8%E2%80%8D%E2%99%82%EF%B8%8F+SUPERHEROES+APP;Built+with+Jetpack+Compose!" alt="Typing SVG" />
-</div>
-<div align="center">
   <!-- BIG ANIMATED TITLE -->
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&weight=900&size=50&pause=1000&color=E31B23&center=true&vCenter=true&width=800&height=80&lines=%F0%9F%A6%B8%E2%80%8D%E2%99%82%EF%B8%8F+SUPERHEROES+APP" alt="Animated Title" />
   
