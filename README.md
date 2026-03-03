@@ -43,8 +43,8 @@ By building this project, I have mastered:
 **Krishna Umarani** <br>
 *Android Developer (Jetpack Compose Learner)*
 
-<a href="https://github.com/YourUsername"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://linkedin.com/in/YourUsername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/Krishnaumarani1066"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://linkedin.com/in/krishnalu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ---
 <div align="center">
