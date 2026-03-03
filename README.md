@@ -9,11 +9,8 @@ This project demonstrates clean architecture, reusable composables, custom themi
 By building this project, you understand:
 
 How to structure a Compose project
-
 How to separate UI and data layers
-
 How to implement scrollable lists
-
 How to use Material Design components properly
 
 🏆 Project Status
@@ -25,7 +22,9 @@ How to use Material Design components properly
 👨‍💻 Author
 
 Krishna Umarani
+
 Android Developer (Jetpack Compose Learner)
+
 preview 
 <img width="970" height="2048" alt="image" src="https://github.com/user-attachments/assets/65d5b8c8-749e-41d8-a5ab-c98fad889148" />
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/e758194a-fa8c-42bd-8be4-3c4be6bdfa0f" />
